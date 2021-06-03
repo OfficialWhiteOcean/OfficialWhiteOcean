@@ -1,1 +1,1 @@
-- 👋 Hi, I’m @OfficialWhiteOcean
+All you need to use VSCode  efficiently
